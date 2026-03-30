@@ -37,5 +37,5 @@ Includes data extraction, cleaning, and exploratory analysis using Python.
 ---
 
 ## 📫 Contact
-- LinkedIn: [(your link)](https://www.linkedin.com/in/federico-saroka/)
+- LinkedIn: [(fedesaroka)](https://www.linkedin.com/in/federico-saroka/)
 - Email: fedesaroka@gmail.com
