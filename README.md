@@ -33,7 +33,8 @@ End-to-end data pipeline + dashboard to analyze attendance, costs, and behavior 
 
 ### 📌 Mercado Libre Price Analysis
 Data analysis project focused on Mercado Libre products to identify pricing patterns, competition, and potential business opportunities.  
-Includes data extraction, cleaning, and exploratory analysis using Python.
+Includes data extraction, cleaning, and exploratory analysis using Python.**
+
 ---
 
 ## 📫 Contact
